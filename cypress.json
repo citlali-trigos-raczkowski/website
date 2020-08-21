@@ -1,0 +1,11 @@
+{
+    "baseUrl": "http://localhost:3000",
+    "supportFile": false, 
+    "fixturesFolder": false, 
+    "defaultCommandtimeout": 45000,
+    "video": false, 
+    "reporterOptions": {
+        "toConsole": true, 
+        "mochaFile": "/dev/null"
+    }
+}

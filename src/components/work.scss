@@ -1,0 +1,36 @@
+.content {
+  display: table;
+  width: 100%;
+  font-size: 14pt;
+  @media (min-width: 700px) {
+    width: 100%;
+  }
+  text-align: left;
+  vertical-align: middle;
+  padding: 12%;
+  font-family: 'Inconsolata';
+  text-align: center
+}
+
+.title {
+  text-align: center;
+  font-size: 12px;
+  margin: 1em;
+  display: inline-block;
+  font-family: "Varela Round", sans-serif;
+}
+
+
+.stickyScroll {
+  align-items: center;
+  background: #000;
+  min-height: 100vh;
+
+}
+
+.subsection {
+  display: flex;
+  text-align: center;
+
+}
+
